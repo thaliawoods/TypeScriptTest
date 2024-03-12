@@ -1,3 +1,2 @@
-# ChessV2
+# TypeScriptTest
 
-type script
